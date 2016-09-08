@@ -35,19 +35,23 @@ add > ZSH_THEME="pure"
 [Link - MakeMKV Forum](http://www.makemkv.com/forum2/viewtopic.php?f=3&t=224)
 
 - Install required packages on Ubuntu
+
 sudo apt-get install build-essential libc6-dev libssl-dev libgl1-mesa-dev libqt4-dev
 
 - Download Files
+
 wget http://www.makemkv.com/download/makemkv_v1.5.6_beta_oss.tar.gz
 wget http://www.makemkv.com/download/makemkv_v1.5.6_beta_bin.tar.gz
 
 - Unzip Files and Remove tarballs
+
 tar -xvvf makemkv_v1.5.6_beta_oss.tar.gz
 tar -xvvf makemkv_v1.5.6_beta_bin.tar.gz
 rm makemkv_v1.5.6_beta_oss.tar.gz
 rm makemkv_v1.5.6_beta_bin.tar.gz
 
 - Build OSS and BIN
+
 cd makemkv_v1.5.6_beta_oss/
 
 make -f makefile.linux
@@ -63,6 +67,7 @@ sudo make -f makefile.linux install
 cd ..
 
 - Remove Directories
+
 sudo rm -r makemkv_v1.5.6_beta_oss/
 
 sudo rm -r makemkv_v1.5.6_beta_bin/
