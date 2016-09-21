@@ -4,7 +4,7 @@ sudo apt-get update
 
 sudo apt-get upgrade
 
-sudo apt-get install vim, git, transmission, filezilla, vlc, steam, zsh
+sudo apt-get install vim git transmission filezilla vlc steam zsh
 
 sudo add-apt-repository ppa:stebbins/handbrake-releases
 
