@@ -1,3 +1,9 @@
+## Icons
+[https://snwh.org/moka](https://snwh.org/moka)
+
+## Theme
+[https://github.com/horst3180/arc-theme](https://github.com/horst3180/arc-theme)
+
 ## Command Line
 
 sudo add-apt-repository ppa:stebbins/handbrake-releases
