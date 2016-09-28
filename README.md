@@ -1,3 +1,8 @@
+[https://www.reddit.com/r/unixporn/comments/54g56z/i3gaps_made_the_switch_to_i3/](https://www.reddit.com/r/unixporn/comments/54g56z/i3gaps_made_the_switch_to_i3/_)
+
+
+
+
 ## Icons
 [https://snwh.org/moka](https://snwh.org/moka)
 
