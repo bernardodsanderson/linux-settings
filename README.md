@@ -47,3 +47,14 @@ add > ZSH_THEME="pure"
 ### MakeMKV
 [Link - MakeMKV Forum](http://www.makemkv.com/forum2/viewtopic.php?f=3&t=224)
 
+
+
+### Frequently Used Commands
+
+**React Native**
+react-native run-android
+react-native start --reset-cache
+
+**apt-get**
+sudo apt-get update && sudo apt-get upgrade
+
