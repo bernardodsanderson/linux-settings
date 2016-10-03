@@ -52,9 +52,15 @@ add > ZSH_THEME="pure"
 ### Frequently Used Commands
 
 **React Native**
+
 react-native run-android
+
+
 react-native start --reset-cache
 
+
 **apt-get**
+
+
 sudo apt-get update && sudo apt-get upgrade
 
