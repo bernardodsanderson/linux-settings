@@ -50,6 +50,8 @@ add > ZSH_THEME="pure"
 [https://www.reddit.com/r/unixporn/comments/54g56z/i3gaps_made_the_switch_to_i3/](https://www.reddit.com/r/unixporn/comments/54g56z/i3gaps_made_the_switch_to_i3/_)
 
 
+[https://www.reddit.com/r/unixporn/comments/3358vu/i3lock_unixpornworthy_lock_screen](https://www.reddit.com/r/unixporn/comments/3358vu/i3lock_unixpornworthy_lock_screen)
+
 
 [Cheat Sheet](https://duckduckgo.com/?q=i3wm+cheat+sheet&ia=cheatsheet&iax=1)
 
@@ -57,17 +59,31 @@ add > ZSH_THEME="pure"
 
 ~/.i3/config
 
+[https://github.com/ganifladi/linux/blob/master/config/i3/config](https://github.com/ganifladi/linux/blob/master/config/i3/config)
+
+[https://github.com/alexbooker/dotfiles/tree/ubuntu](https://github.com/alexbooker/dotfiles/tree/ubuntu)
+
 Download [playerctl](https://github.com/acrisci/playerctl/releases)
 
 
+sudo add-apt-repository ppa:no1wantdthisname/ppa
 
-sudo apt-get install feh
+sudo apt-get update
+
+sudo apt-get install feh lxappearance arandr rofi compton i3blocks
 
 exec_always feh --bg-scale /home/bernardo/pictures/wallpaper.jpg
 
 
 
-sudo apt-get install arandr
+Install Font Awesome
+
+[https://github.com/FortAwesome/Font-Awesome/releases](https://github.com/FortAwesome/Font-Awesome/releases)
+
+mkdir ~/.fonts
+
+mv fontawesome-webfont.ttf ~/.fonts
+
 
 
 ## Frequently Used Commands
